@@ -1,0 +1,191 @@
+[
+  {
+    "id": "dabc7b7d-518a-499b-a3eb-b20ba4d5f234",
+    "data": [
+      {
+        "text": "Quit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5803a18-ffaa-4f0a-9091-580b8bb0ade2",
+    "data": [
+      {
+        "text": "Exit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "351697ab-e28a-409c-bd49-be8971ba90cb",
+    "data": [
+      {
+        "text": "Close",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "814c3358-e64f-42bd-a829-f6fc9328c006",
+    "data": [
+      {
+        "text": "Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50c44d29-730c-4b3e-91cc-810c0f5d5875",
+    "data": [
+      {
+        "text": "Bye Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7989ff7d-dc4f-4928-9554-02e29bf49d1e",
+    "data": [
+      {
+        "text": "See You Today\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7225c1b1-71e9-4adb-96f5-8d79f41be513",
+    "data": [
+      {
+        "text": "Exit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " Today\u0027s Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d82ffce1-8454-4a03-8021-29a23ab903c0",
+    "data": [
+      {
+        "text": "Quit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " Today\u0027s Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "804669d9-b0df-42a0-8f7f-71dbea03edf0",
+    "data": [
+      {
+        "text": "Close",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " Today\u0027s Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "031e041c-d2b1-4789-8cd5-c083d7168f97",
+    "data": [
+      {
+        "text": "Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " Today\u0027s Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "892ab658-9b1f-42cf-be45-852ccfe29c8d",
+    "data": [
+      {
+        "text": "Bye Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " Today\u0027s Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

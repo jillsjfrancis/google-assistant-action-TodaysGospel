@@ -1,0 +1,9 @@
+{
+  "id": "b4c22d31-7aee-4c42-abd0-9313ad84d192",
+  "name": "Gospel",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

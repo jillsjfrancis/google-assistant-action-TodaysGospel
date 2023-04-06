@@ -1,0 +1,9 @@
+{
+  "id": "61dbef8a-29a9-4ce4-aea7-612f0bb3c7c5",
+  "name": "Exit",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

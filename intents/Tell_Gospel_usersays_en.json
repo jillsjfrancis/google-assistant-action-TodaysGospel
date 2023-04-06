@@ -1,0 +1,266 @@
+[
+  {
+    "id": "0199fc4b-f6ef-41df-81fb-b185bc91262b",
+    "data": [
+      {
+        "text": "I need to Talk To ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47aeecbd-3d3e-4ccb-86d2-ba66c973a3da",
+    "data": [
+      {
+        "text": "give ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7abad667-266d-43e7-9c18-f82d47d51e8d",
+    "data": [
+      {
+        "text": "what does bible says?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f590acd-3584-4a87-9c09-22afb9ff6bb6",
+    "data": [
+      {
+        "text": "shoot me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f522c00a-bd58-4da7-ac17-90f59b1d3419",
+    "data": [
+      {
+        "text": "say today\u0027s gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bfbb64f-f6da-439d-bca4-cf45586b1a4c",
+    "data": [
+      {
+        "text": "give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e65fb13-0d1c-47db-aa3e-5686616cb559",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s\u0027s bible quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "801a27a9-7ed0-4b6b-8b86-204910760342",
+    "data": [
+      {
+        "text": "What\u0027s Today\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "409c4b12-ddc9-4a60-af95-3325d0b0f6bc",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "message",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "732ee454-0360-4516-a2cb-08e57105ffbd",
+    "data": [
+      {
+        "text": "shoot me a ",
+        "userDefined": false
+      },
+      {
+        "text": "gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5571fdc7-b6da-4891-9fc9-db00fa08bbb7",
+    "data": [
+      {
+        "text": "Show me Today\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51cc1156-b1c4-48fc-ada7-5bca5d08293b",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

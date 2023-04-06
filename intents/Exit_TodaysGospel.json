@@ -1,0 +1,67 @@
+{
+  "id": "255ba8af-5da5-450e-a28f-e10b0cf636bc",
+  "name": "Exit_TodaysGospel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1239d5e5-f029-4c24-83e2-db8e9bd87a4b",
+          "name": "Exit",
+          "required": false,
+          "dataType": "@Exit",
+          "value": "$Exit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d5193e08-db54-471f-b3da-f5671d7feff1",
+          "name": "Gospel",
+          "required": false,
+          "dataType": "@Gospel",
+          "value": "$Gospel",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bye Bye..! Hope To See You Again Soon...!  😄",
+            "Bye Bye ! 😊",
+            "Hope To See You Soon...! Bye 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

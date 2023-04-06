@@ -1,0 +1,158 @@
+{
+  "id": "165580d1-6aed-42e4-a635-826750e3f9ec",
+  "name": "Tell_Gospel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f32c202-f4e0-463a-bc76-521d43007519",
+          "name": "Gospel",
+          "required": false,
+          "dataType": "@Gospel",
+          "value": "$Gospel",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Thank You! Stay Blessed!",
+              "displayText": "Thank You ! Stay Blessed !",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "textToSpeech": "Thank You! Trust In Jesus!",
+              "displayText": "Thank You ! Trust In Jesus !",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "textToSpeech": "Thank You! Stay With God!",
+              "displayText": "Thank You ! Stay With God !",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "textToSpeech": "Thank You! Have A Blessed Day!",
+              "displayText": "Thank You ! Have A Blessed Day !",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! Today\u0027s gospel says The Lord is my rock, my fortress and my savior, my God is my rock, in whom I find protection. He is my shield, the power that saves me, and my place of safety, Psalm 18:2",
+            "Hello! Today\u0027s gospel says Seek his will in all you do, and he will show you which path to take, Proverbs 3:6",
+            "Good day! Today\u0027s gospel says God is love, and he who abides in love, abides in God, and God in him, 1 John 4:16",
+            "Greetings! Today\u0027s gospel says She is clothed with strength and dignity and she laughs without fear of the future, Proverbs 31:25",
+            "Hi! Today\u0027s gospel says For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future, Jeremiah 29:11",
+            "Hello! Today\u0027s gospel says This is how we know that we live in him and he in us He has given us of his Spirit,1 John 4:13",
+            "Good day! Today\u0027s gospel says You will keep in perfect peace all who trust in you, all whose thoughts are fixed on you ! Isaiah 26:3",
+            "Greetings! Today\u0027s gospel says But you, Lord, are a shield around me, my glory, the One who lifts my head high, Psalm 3:3",
+            "Hi! Today\u0027s gospel says The peace of God, which transcends all understanding, will guard your hearts and minds, Philippians 4:7",
+            "Hello! Today\u0027s gospel says Before I formed you in the womb, I knew you, before you were born I set you apart, Jeremiah 1:5",
+            "Good day! Today\u0027s gospel says Send me your light and your faithful care, let them lead me, Psalm 43:3",
+            "Greetings! Today\u0027s gospel says Anyone who belongs to Christ has become a new person.The old life is gone, a new life has begun!, 2 Corinthians 5:17",
+            "Hi! Today\u0027s gospel says Surely your goodness and love\nwill follow me all the days of my life, Psalm 23:6",
+            "Hello! Today\u0027s gospel says For He shall give His angels charge over you, to keep you in all your ways, Psalm 91:11",
+            "Good day! Today\u0027s gospel says The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love, he will exult over you with loud singing, Zephaniah 3:17",
+            "Greetings! Today\u0027s gospel says I sought the Lord, and he answered me, he delivered me from all my fears. Those who look to him are radiant, their faces are never covered with shame, Psalm 34:4-5",
+            "Hi! Today\u0027s gospel says I took my troubles to the Lord, I cried out to him, and he answered my prayer, Psalm 120:1",
+            "Hello! Today\u0027s gospel says May God be gracious to us and bless us and make his face shine on us, Psalm 67:1",
+            "Good day! Today\u0027s gospel says In this world you will have trouble. But take heart! I have overcome the world, John 16:33",
+            "Greetings! Today\u0027s gospel says Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him, James 1:12",
+            "Hi! Today\u0027s gospel says To everything there is a season,a time for every purpose under heaven, Ecclesiastes 3:1",
+            "Hello! Today\u0027s gospel says Let us run with endurance the race God has set before us, Hebrews 12:1",
+            "Good day! Today\u0027s gospel says I am overcome with joy because of God\u0027s unfailing love, for He has seen my troubles, and He cares about the anguish of my soul, Psalm 31:7",
+            "Greetings! Today\u0027s gospel says We are hard pressed on every side, but not crushed. perplexed, but not in despair. persecuted, but not abandoned. struck down, but not destroyed, 2 Corinthians 4:8-9",
+            "Hi! Today\u0027s gospel says I can do everything through Christ who gives me strength, Philippians 4:13",
+            "Hello! Today\u0027s gospel says The Lord is a refuge for the oppressed, a stronghold in times of trouble. Those who know your name trust in you, for you, Lord, have never forsaken those who seek you, Psalm 9:9-10",
+            "Good day! Today\u0027s gospel says You, Lord, hear the desire of the afflicted; you encourage them, and you listen to their cry, Psalm 10:17",
+            "Greetings! Today\u0027s gospel says I was pushed back and about to fall, but the Lord helped me. The Lord is my strength and my defense. he has become my salvation, Psalm 118:13-14",
+            "Stay Blessed! Today\u0027s gospel says Be strong and courageous. Do not be afraid or terrified, for the Lord you God goes with you. he will never leave you nor forsake you, Deuteronomy 31:6",
+            "Stay Blessed! Today\u0027s gospel says Therefore, my dear brothers and sisters, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain, 1 Corinthians 15:58",
+            "Stay Blessed! Today\u0027s gospel says This is my command: Love each other, John 15:17",
+            "Stay Blessed! Today\u0027s gospel says Those who trust in the Lord will find new strength. They will soar high on wings like eagles. They will run and not grow weary. They will walk and not faint, Isaiah 40:31",
+            "Stay Blessed! Today\u0027s gospel says I prayed to the Lord and he answered me. He freed me from all my fears, Psalm 34:4",
+            "Stay Blessed! Today\u0027s gospel says The mind governed by the flesh is death, but the mind governed by the spirit is life and peace,  Romans 8:6",
+            "Stay Blessed! Today\u0027s gospel says Come to me, all you who labor and are burdened, and I will give you rest, Matthew 11:28",
+            "Believe! Today\u0027s gospel says Do not let your heart be troubled. Believe in God, believe also in Me, John 14:1",
+            "Trust In God! Today\u0027s gospel says But blessed is the one who trusts in the Lord, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when the heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit, Jeremiah 17:7-8",
+            "Stay Blessed! Today\u0027s gospel says Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,  Colossians 3:23",
+            "Stay Blessed! Today\u0027s gospel says \"For I know the plans I have for you,\" declares the Lord, \"plans to prosper you and not to harm you, plans to give you hope and a future, Jeremiah 29:11",
+            "Believe! For faithful love is what pleases me, not sacrifice; knowledge of God, not burnt offerings. (Hosea 6:6)",
+            "Stay Blessed! Blessed are the pure in heart: they shall see God. (Matthew 5:8)",
+            "Trust In God! Bless your persecutors; never curse them, bless them. (Romans 12:14)",
+            "Stay Calm! Avoiding a fight is a mark of honor: only fools insist on quarreling. (Proverbs 20:3)",
+            "Talk to God! Then his son said, \"Father, I have sinned against heaven and against you. I no longer deserve to be called your son.\" (Luke 15:21)",
+            "Pray! Then he told them a parable about the need to pray continually and never lose heart. (Luke 18:1)",
+            "Pray your heart out! Yahweh, hear my prayer, listen to my cry for help, do not remain deaf to my weeping. For I am a stranger in your house, a nomad like all my ancestors. (Psalms 39:12)",
+            "Trust In God! Jesus said to him, \u0027Scripture also says: Do not put the Lord your God to the test.\u0027 (Matthew 4:7)",
+            "Believe! This God of ours is a God who saves; from Lord Yahweh comes escape from death. (Psalms 68:20)",
+            "Be Kind! Be generous to one another, sympathetic, forgiving each other as readily as God forgave you in Christ. (Ephesians 4:32)",
+            "Trust In God! You did not choose me, no, I chose you; and I commissioned you to go out and to bear fruit, fruit that will last; so that the Father will give you anything you ask him in my name. (John 15:16)",
+            "Stay Blessed! Be brave, take heart, all who put your hope in Lord. (Psalms 31:24)",
+            "Believe! And a hope which will not let us down, because the love of God has been poured into our hearts by the Holy Spirit which has been given to us. (Romans 5:5)",
+            "Love And Respect Your Parents! Since a father\u0027s blessing makes his children\u0027s house firm, while a mother\u0027s curse tears up its foundations. (Ecclesiasticus 3:9)",
+            "Believe in Jesus! For of all the names in the world given to men, this is the only one by which we can be saved. (Acts 4:12)",
+            "Stay Blessed! Blessed are the pure in heart: they shall see God. (Matthew 5:8)",
+            "Today\u0027s Gospel says Be Kind! \nBut Lord said to Samuel, \u0027Take no notice of his appearance or his height, for I have rejected him; God does not see as human beings see; they look at appearances but Lord looks at the heart.\u0027 (1 Samuel 16:7)",
+            "Today\u0027s Gospel says Praise The Lord! \nBetter your faithful love than life itself; my lips will praise you. (Psalms 63:3)",
+            "Trust In God! Unload your burden onto Lord and he will sustain you; never will he allow the upright to stumble. (Psalms 55:22)",
+            "Today\u0027s Gospel says Believe! \nThe Lord is thy keeper: the Lord is thy shade on your right hand.\n(Psalms 121:5)",
+            "Stay Blessed! Today\u0027s gospel says Fear not, for I am with you. be not dismayed, for I am your God. I will strengthen you, I will help you, I will uphold you with my righteous right hand, Isaiah 41:10"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
