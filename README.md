@@ -1,4 +1,4 @@
-# Today's Gospel
+# Today's Gospel (Google Assistant Action)
 
 TodaysGospel is a Google Assistant action that delivers daily Gospel readings to users, providing inspiration, guidance, and strength for the day ahead. Inspired by Pope Francis' call to keep a little Gospel in your pocket or purse, TodaysGospel provides a convenient way to read a daily Gospel that is randomly selected and delivered to each user. 
 
