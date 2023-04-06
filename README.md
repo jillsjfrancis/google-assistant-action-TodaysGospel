@@ -13,7 +13,9 @@ Built with Dialogflow, Node.js, and the Google Cloud Platform, TodaysGospel is r
 
 ## Installation
 
-To install and use TodaysGospel, you can simply say "Hey Google, talk to TodaysGospel" to your Google Assistant-enabled device. Alternatively, you can follow these steps:
+To install and use TodaysGospel, you can simply say "Hey Google, talk to TodaysGospel" to your Google Assistant-enabled device. You can also try it out by visiting the action's page on the Google Assistant directory [here](https://assistant.google.com/services/a/uid/000000d7d593e2dd).
+
+Alternatively, you can follow these steps:
 
 1. Clone this repository to your local machine
 2. Extract the files from the downloaded ZIP file
@@ -39,6 +41,6 @@ Special thanks to the following resources for their valuable contributions to th
 
 ## Contact
 
-If you have any questions or concerns about Today's Gospel, please feel free to reach out to me through this [[contact form](https://jillsjfrancis.wordpress.com/contact/)].
+If you have any questions or concerns about Today's Gospel, please feel free to reach out to me through this [contact form](https://jillsjfrancis.wordpress.com/contact/).
 
 Try Today's Gospel now and start your day with the strength and guidance of the Gospel.
