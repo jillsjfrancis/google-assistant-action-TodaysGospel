@@ -1,11 +1,13 @@
 # Today's Gospel
 
-TodaysGospel is a Google Assistant action that delivers daily Gospel readings to users, providing inspiration, guidance, and strength for the day ahead. Built with Dialogflow, Node.js, and the Google Cloud Platform, TodaysGospel is reliable, easy to use, and accessible to everyone.
+TodaysGospel is a Google Assistant action that delivers daily Gospel readings to users, providing inspiration, guidance, and strength for the day ahead. Inspired by Pope Francis' call to keep a little Gospel in your pocket or purse, TodaysGospel provides a convenient way to read a daily Gospel that is randomly selected and delivered to each user. 
+
+Built with Dialogflow, Node.js, and the Google Cloud Platform, TodaysGospel is reliable, easy to use, and accessible to everyone.
 
 ## Features
 
 - Daily Gospel readings
-- Simple and user-friendly interface
+- Interactive Q&A to deepen understanding
 - Voice-activated features
 - Compatible with Google Assistant-enabled devices
 
@@ -37,4 +39,6 @@ Special thanks to the following resources for their valuable contributions to th
 
 ## Contact
 
-If you have any questions or concerns about Today's Gospel, please feel free to contact me at [itsdreamdesigner@gmail.com].
+If you have any questions or concerns about Today's Gospel, please feel free to reach out to me through this [[contact form](https://jillsjfrancis.wordpress.com/contact/)].
+
+Try Today's Gospel now and start your day with the strength and guidance of the Gospel.
