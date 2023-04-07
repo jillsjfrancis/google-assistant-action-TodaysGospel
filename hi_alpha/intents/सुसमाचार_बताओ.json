@@ -1,0 +1,54 @@
+{
+  "id": "1bc87af6-2966-40a9-950a-9fbce0aed09e",
+  "name": "सुसमाचार_बताओ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "आज की सुसमाचार कहता है प्रभु! मेरे बल! मैं तुझे प्यार करता हूँ। प्रभु मेरी चट्टान है, मेरा गढ़ और मेरा उद्धारक। ईश्वर ही मेरी चट्टान है, जहाँ मुझे शरण मिलती है। वही मेरी ढाल है, मेरा शक्तिशाली उद्धारकर्ता और आश्रयदाता।, स्तोत्र अध्याय 18:2\r\nधन्यवाद !",
+              "displayText": "आज की सुसमाचार कहता है प्रभु! मेरे बल! मैं तुझे प्यार करता हूँ। प्रभु मेरी चट्टान है, मेरा गढ़ और मेरा उद्धारक। ईश्वर ही मेरी चट्टान है, जहाँ मुझे शरण मिलती है। वही मेरी ढाल है, मेरा शक्तिशाली उद्धारकर्ता और आश्रयदाता।, स्तोत्र : अध्याय 18:2\nधन्यवाद !",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
