@@ -1,0 +1,226 @@
+[
+  {
+    "id": "e17586fb-6729-46cb-9408-a3a3caabdfe3",
+    "data": [
+      {
+        "text": "See You Today\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5535c395-e1e6-4fa7-878b-937a3f83ca4f",
+    "data": [
+      {
+        "text": "Exit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1e620b4-f40e-4e72-b847-a217e27ff35d",
+    "data": [
+      {
+        "text": "Quit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a21d64e-d47a-464d-9bf0-3050dc8fdf7b",
+    "data": [
+      {
+        "text": "Close",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6d06bb8-77cf-445d-92fe-2cafff88dd75",
+    "data": [
+      {
+        "text": "Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Gospel",
+        "meta": "@Gospel",
+        "alias": "Gospel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a26b774e-f21f-49d6-ab48-3a63a84d2c17",
+    "data": [
+      {
+        "text": "Bye Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5e61427-1aab-4715-a9cc-4b3118808eec",
+    "data": [
+      {
+        "text": "Bye",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d65d7ed-4743-46b8-9ec4-6b3e84fceb34",
+    "data": [
+      {
+        "text": "Close",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab6246a-54df-4b40-86b3-94ebd88d836c",
+    "data": [
+      {
+        "text": "Exit",
+        "meta": "@Exit",
+        "alias": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ab279b4-1f82-440f-95a1-6be9d63fd7b2",
+    "data": [
+      {
+        "text": "Quite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

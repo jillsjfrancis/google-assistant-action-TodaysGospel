@@ -1,0 +1,86 @@
+{
+  "id": "0a310a12-65bb-4389-a9f8-45a4d28533a0",
+  "name": "Tell_GospelMalayalam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcomemalyalam",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c6fc0b9-c37d-4355-9b3b-dbc87abb14ca",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "This is the beta version of today\u0027s gospel malayalam.\nWe are working on the audio.\nThankYou! Have A Blessed Day..!",
+              "displayText": "| BETA Version Of Today\u0027s Gospel Malayalam | എന്നെ ശക്തനാക്കുന്നവനിലൂടെ എല്ലാം ചെയ്യാൻ എനിക്കു സാധിക്കും.\nഫിലിപ്പി 4 :13",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "textToSpeech": "This is the beta version of today\u0027s gospel malayalam. We are working on the audio.\nThankYou! Have A Blessed Day..!",
+              "displayText": "| BETA Version Of Today\u0027s Gospel Malayalam | നിന്റെ  എല്ലാ പ്രവൃത്തികളും ദൈവവിചാരത്തോടെയാകട്ടെ , അവിടുന്ന് നിനക്ക് വഴി തെളിച്ചുതരും.\nസുഭാഷിതങ്ങൾ 3 :6",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "എന്നെ ശക്തനാക്കുന്നവനിലൂടെ എല്ലാം ചെയ്യാൻ എനിക്കു സാധിക്കും. (ഫിലിപ്പി 4 :13)",
+            "നിന്റെ  എല്ലാ പ്രവൃത്തികളും ദൈവവിചാരത്തോടെയാകട്ടെ , അവിടുന്ന് നിനക്ക് വഴി തെളിച്ചുതരും. (സുഭാഷിതങ്ങൾ 3 :6)"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
