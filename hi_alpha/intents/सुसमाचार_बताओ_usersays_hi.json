@@ -1,0 +1,75 @@
+[
+  {
+    "id": "f8b81f10-8a28-49a7-ad9a-be429e7b4f01",
+    "data": [
+      {
+        "text": "आज",
+        "userDefined": false
+      },
+      {
+        "text": " की सुसमाचार से कनेक्ट करो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "79ea9fc3-1c28-49ba-99ed-875e87e1d102",
+    "data": [
+      {
+        "text": "मुझे एक सुसमाचार दो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "a3769a7a-4fb9-4a59-a01d-2465ffcbdc26",
+    "data": [
+      {
+        "text": "आज का सुसमाचार दें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "19581c36-8aa7-4912-84f9-1a5f377dd39d",
+    "data": [
+      {
+        "text": "मुझे आज की सुसमाचार से बात करने की ज़रूरत है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "82de5f95-0556-46c7-981b-a9634c78a72e",
+    "data": [
+      {
+        "text": "आज",
+        "userDefined": false
+      },
+      {
+        "text": " का सुसमाचार क्या है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]
