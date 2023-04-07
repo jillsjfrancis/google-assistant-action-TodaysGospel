@@ -1,0 +1,90 @@
+[
+  {
+    "id": "109e3b87-a403-4b2d-b789-7fac1f436dcd",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s\u0027s Gospel Malayalam Bible quote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91da07d0-9f95-4fd3-9538-784ce00815e2",
+    "data": [
+      {
+        "text": "Ask ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027sGospel Malayalam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31fe6ed2-c29e-44cc-ba62-c191d1e03ecf",
+    "data": [
+      {
+        "text": "Today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s Gospel Malayalam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a8c7d85-b1b6-408d-99eb-26cdcf3f7394",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s Gospel Malayalam?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
